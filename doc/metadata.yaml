@@ -1,4 +1,6 @@
-description: null
+description: FPGA development module for basic signal and data processing. This breakout
+  board differs from other constructions by high number of differential pairs take
+  out to LVDS or LVPECL connectors.
 github_branch: S6AN01A
 github_repo: S6AN01
 github_url: https://github.com/mlab-modules/S6AN01
